@@ -1,3 +1,2 @@
-# Changing Gears: Lockdown and curfews influenced bike usage accross Paris over the last year. Was it by enough to detect with statistical significance?
 
 This project was done for Laurent Oudre's Machine Learning for Time Series class as part of the MVA course. We studied and implemented a state of the art technique for the statistical analysis of changepoints in time series, and applied it to real world data regarding bike usage around Paris.
