@@ -5,3 +5,4 @@ To do:
 * add requirements file
 * finsh readme
 * add markdown files 
+* make data file less than 100Mb so can be added
