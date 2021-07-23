@@ -1,7 +1,7 @@
 # Changing Gears: Statistical Analysis of Bike Traffic around Paris
 
 
-This project was done for Laurent Oudre's [Machine Learning for Time Series](http://www.laurentoudre.fr/ast.html) class as part of the MVA course. We studied and implemented a state of the art technique for the statistical analysis of changepoints in time series, and applied it to real world data regarding bike usage around Paris.
+This project was done for Laurent Oudre's [Machine Learning for Time Series](http://www.laurentoudre.fr/ast.html) class as part of the MVA course. [Waiss Azizian](https://github.com/wazizian) and myself studied and implemented a state of the art technique for the statistical analysis of changepoints in time series, and applied it to real world data regarding bike usage around Paris.
 
 An explanation of what we have done can be found in the project report pdf. However, it is not intented to be fully understood by readers who aren't familiar with the paper by Duy et al. [*Computing Valid p-value for Optimal Changepoint by Selective Inference using Dynamic Programming*](https://arxiv.org/abs/2002.09132) that this project is based off. We encourage readers to have a look at this paper first.
 
@@ -19,7 +19,6 @@ The second dataset comes from Paris' Open Data initiative. The city has deployed
 
 ![Paris](eiffel.jpg)
 
-$x=1$
 
 ## Running code
 To run the code, we recommend creating a conda environment using
