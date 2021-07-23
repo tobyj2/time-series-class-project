@@ -19,6 +19,7 @@ The second dataset comes from Paris' Open Data initiative. The city has deployed
 
 ![Paris](eiffel.jpg)
 
+$x=1$
 
 ## Running code
 To run the code, we recommend creating a conda environment using
