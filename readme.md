@@ -3,7 +3,7 @@
 
 This project was done for Laurent Oudre's [Machine Learning for Time Series](http://www.laurentoudre.fr/ast.html) class as part of the MVA course. The work was done in a group of two made up of [Waiss Azizian](https://github.com/wazizian) and myself. We studied and implemented a state of the art technique for the statistical analysis of changepoints in time series, and applied it to real world data regarding bike usage around Paris.
 
-An explanation of what we have done can be found in the project report pdf. However, it is not intented to be fully understood by readers who aren't familiar with the paper by Duy et al. [*Computing Valid p-value for Optimal Changepoint by Selective Inference using Dynamic Programming*](https://arxiv.org/abs/2002.09132) that this project is based off. We encourage readers to have a look at this paper first.
+An explanation of what we have done can be found in the [project report pdf](Time_Series_Project.pdf). However, it is not intented to be fully understood by readers who aren't familiar with the paper by Duy et al. [*Computing Valid p-value for Optimal Changepoint by Selective Inference using Dynamic Programming*](https://arxiv.org/abs/2002.09132) that this project is based off. We encourage readers to have a look at this paper first.
 
 We reimplemented the method from scratch in Python (for a fixed number of changepoints K) and checked it was working by reproducing some simple performance tests from the article. We then went on to apply the method to some novel real world data.
 
